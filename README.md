@@ -4,7 +4,7 @@ Data Analysing Using Youtube Video Data from Most Popular News Channels
 ## Aims and objectives
 Within this project, I would like to explore the following:
 
-! . Getting to know Youtube API and how to obtain video data.
+1 . Getting to know Youtube API and how to obtain video data.
 2 . Analyzing video data and verify different common "myths" about what makes a video do well on Youtube, for example:
 3 . Does the number of likes and comments matter for a video to get more views?
 4 . Does the video duration matter for views and interaction (likes/ comments)?
